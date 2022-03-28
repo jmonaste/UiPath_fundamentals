@@ -8,3 +8,6 @@
 .local/
 .objects/
 *.pdf
+*.exe
+*.zip
+*.png
